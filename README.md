@@ -23,3 +23,8 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding,
   <img align="center" alt="Laura-React" height="30" width="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   
 </div>
+
+
+### Love Coding in
+
+<img align="center" alt="Laura-React" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png" />

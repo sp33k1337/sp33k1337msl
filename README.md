@@ -31,7 +31,7 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **Typesc
 </div>
 
 
-### Love Coding in
+### Enjoying Coding in
 
 <img align="center" alt="callmenikk-ruby" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png" />
 

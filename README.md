@@ -1,7 +1,11 @@
 ## Hello There 👋
 
-I'm Nikoloz Imerlishvili, 16 years old, who loves coding, 
+I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **Typescript** and **React.js** 
 
+* 🌱 Currently Working on **[Playwave](https://github.com/callmenikk/Playwave)**, which is music streaming platform
+* 🌱 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
+* 🌱 Also I have **[portoflio](https://nikolozimerlishvili.netlify.app/)** where I have included some projects which is made by me 😄
+* 🌱 I love helping people in Coding, Also I have stackoverflow account over 700 reputations 
 
 <div>
   
@@ -40,3 +44,16 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding,
   <img align="center" alt="callmenikk-Golang" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
 
   </div>
+
+### Social Medias
+
+<div style="display: flex; justify-content: space-between; width: 300px;">
+
+  <a href="https://www.linkedin.com/in/nikoloz-imerlishvili-576a43203/" target="blank">
+    <img align="center" alt="callmenikk-linkedin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+  </a>
+  <a href="https://stackoverflow.com/users/14056647/callmenikk" target="blank">
+    <img align="center" alt="callmenikk-stackoverflow" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
+  </a>
+
+</div>

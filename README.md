@@ -30,9 +30,13 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding,
 <img align="center" alt="callmenikk-ruby" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png" />
 
 
-# Going To Learn
+### Going To Learn
 
-<img align="center" alt="callmenikk-elixir" height="30" width="30" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
-<img align="center" alt="callmenikk-Golang" height="30" width="30" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
-<img align="center" alt="callmenikk-Graphql" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" />
-<img align="center" alt="callmenikk-Golang" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
+<div style="display: inline-block">
+
+  <img align="center" alt="callmenikk-elixir" height="30" width="30" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
+  <img align="center" alt="callmenikk-Golang" height="30" width="30" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />
+  <img align="center" alt="callmenikk-Graphql" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png"   />
+  <img align="center" alt="callmenikk-Golang" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
+
+  </div>

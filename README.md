@@ -32,7 +32,7 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding,
 
 ### Going To Learn
 
-<div style="display: inline-block">
+<div style="display: flex; justify-content: space-around; width: 300px;">
 
   <img align="center" alt="callmenikk-elixir" height="30" width="30" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" />
   <img align="center" alt="callmenikk-Golang" height="30" width="30" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />

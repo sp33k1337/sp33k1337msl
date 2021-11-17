@@ -20,6 +20,6 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding,
   <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Laura-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Laura-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" />
-  <img align="center" alt="Laura-React" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img align="center" alt="Laura-React" height="30" width="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
   
 </div>

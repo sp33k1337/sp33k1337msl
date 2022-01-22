@@ -9,7 +9,7 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Types
 * 🌈 I love helping people in Coding, Also I have **[stackoverflow](https://stackoverflow.com/users/14056647/callmenikk)** account over 1000 reputations 
 * 💀 Fun fact I hate: **PHP, JQuery, Angular.js**
 
-![](https://komarev.com/ghpvc/?username=callmenikk&style=flat-square&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=callmenikk&style=flat&color=ff69b4)
 
 <div>
   

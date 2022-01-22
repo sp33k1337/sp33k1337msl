@@ -70,5 +70,8 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Types
   <a href="https://github.com/callmenikk">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://open.spotify.com/user/31d7dfw773pkvkixs2xkzyh5qyd4">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 
 </div>

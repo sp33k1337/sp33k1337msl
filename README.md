@@ -1,4 +1,4 @@
-# Hello There 👋
+# Hello There 👋🏻
 
 I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 
 

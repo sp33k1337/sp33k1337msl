@@ -4,6 +4,7 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Types
 
 * 🌱 Last Project I made is **[Playwave](https://pllaywave.netlify.app/)** which is Music Streaming Platform 🎵
 * 📖 Currently Learning Express.js and MongoDB
+* 🚀 Also I make mini social platform called **[Hipika](https://github.com/callmenikk/Hipika)**
 * 🔨 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
 * 💼 Also I have **[portoflio](https://nikolozimerlishvili.netlify.app/)** where I have included some projects which are made by me 😄
 * 🌈 I love helping people in Coding, Also I have **[stackoverflow](https://stackoverflow.com/users/14056647/callmenikk)** account over 1000 reputations 

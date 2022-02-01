@@ -49,7 +49,7 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Types
 
 ### Going To Learn
 
-  <div style="display: flex; justify-content: space-between; width: 300px;">
+  <div align="center">
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
@@ -58,7 +58,7 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Types
 
 ### Social Medias
 
-<div style="display: flex; justify-content: space-between; width: 300px;">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/nikoloz-imerlishvili-576a43203/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

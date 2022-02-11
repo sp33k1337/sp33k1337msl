@@ -11,8 +11,6 @@ I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Types
 * 💀 Fun fact I hate: **PHP, JQuery, Angular.js**
 
 ![](https://komarev.com/ghpvc/?username=callmenikk&style=flat&color=ff69b4)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d7dfw773pkvkixs2xkzyh5qyd4&cover_image=true&theme=novatorem&bar_color=2c5ea0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<div>
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=callmenikk&show_icons=true&theme=tokyonight">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmenikk&layout=compact&theme=tokyonight">

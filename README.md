@@ -1,6 +1,6 @@
 # Hello There 👋🏻
 
-I'm Nikoloz Imerlishvili, 16 years old, who loves coding, enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 
+I'm Nikoloz Imerlishvili, 16 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 
 
 * 🌱 I Currently work on Discord bot called **[Kesha-bot](https://github.com/callmenikk/Kesha-Bot)** just for fun.
 * 📖 Currently taking break.

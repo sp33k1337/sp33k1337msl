@@ -3,7 +3,6 @@
 I'm Nikoloz Imerlishvili, 16 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 
 
 * 🌱 I Currently work on Web Chatting App called **[JetChat](https://github.com/callmenikk/JetChat)**.
-* 📖 Currently taking break.
 * 👀 Last project I made is mini social platform called **[Hipika](https://github.com/callmenikk/Hipika)**
 * 🔨 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
 * 💼 Also I have **[portoflio](https://nikolozimerlishvili.netlify.app/)** where I have included some projects which are made by me 😄

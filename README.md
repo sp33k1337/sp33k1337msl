@@ -1,5 +1,5 @@
 <div text-align="center">
- # Hello There 👋🏻
+ <h1>Hello There 👋🏻</h1>
 </div> 
 
 I'm Nikoloz Imerlishvili, 16 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 

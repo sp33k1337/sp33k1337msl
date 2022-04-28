@@ -4,7 +4,7 @@
 
 I'm Nikoloz Imerlishvili, 16 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 
 
-* 🌱 I'm Currently Learning **[React Native](https://github.com/facebook/react-native)**.
+* 🌱 I'm Currently Learning **[React Native](https://github.com/facebook/react-native)** and meanwhile building **[opexpose](https://github.com/callmenikk/opexpose)**.
 * 👀 Last project I made is Web Chatting App called **[JetChat](https://github.com/callmenikk/JetChat)**
 * 🔨 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
 * 💼 Also I have **[portoflio](https://nikolozimerlishvili.netlify.app/)** where I have included some projects which are made by me 😄

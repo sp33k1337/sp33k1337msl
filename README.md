@@ -7,7 +7,7 @@ I'm Nikoloz Imerlishvili, 17 years old, who loves coding, Enthusiast of **[Types
 * 🌱 I'm Currently Building React framework **[react-simplified-player](https://github.com/callmenikk/react-simplified-player)**.
 * 👀 Last project I made is Web Chatting App called **[JetChat](https://github.com/callmenikk/JetChat)**
 * 🔨 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
-* 💼 Also I have **[portoflio](https://nikolozimerlishvili.netlify.app/)** where I have included some projects which are made by me 😄
+* 💼 Also I have **[portoflio](https://nikoloz.netlify.app/)** where I have included some projects which are made by me 😄
 * 🌈 I love helping people in Coding, Also I have **[stackoverflow](https://stackoverflow.com/users/14056647/callmenikk)** account over 1000 reputations 
 * 💀 Fun fact I hate: **PHP, JQuery, Angular.js**
 

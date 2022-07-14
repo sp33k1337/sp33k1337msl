@@ -4,7 +4,7 @@
 
 I'm Nikoloz Imerlishvili, 17 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)** and **[React.js](https://github.com/facebook/react)** 
 
-* 🌱 I'm Currently working as Junior **React & Typescript** developer at @OMOFOX
+* 🌱 I'm Currently working as Junior **React & Typescript** developer at **OMOFOX**
 * 👀 Last project I made is React framework **[react-simplified-player](https://github.com/callmenikk/react-simplified-player)**.
 * 🔨 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
 * 💼 Also I have **[portoflio](https://nikoloz.netlify.app/)** where I have included some projects which are made by me 😄

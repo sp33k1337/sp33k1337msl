@@ -15,8 +15,8 @@ I'm Nikoloz Imerlishvili, 17 years old, who loves coding, Enthusiast of **[Types
  
 <div>
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=callmenikk&show_icons=true&theme=tokyonight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmenikk&layout=compact&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=callmenikk&show_icons=true&theme=tokyonight" draggable="false">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmenikk&layout=compact&theme=tokyonight" draggable="false">
 
 </div>
 

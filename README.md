@@ -45,4 +45,7 @@ I'm Nodari Muselishvili, 15 years old, who loves coding.
   <a href="https://github.com/sp33k1337">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+ 
+ 
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 </div>

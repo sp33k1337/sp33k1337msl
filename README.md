@@ -2,7 +2,7 @@
  <h1>Hello 👋🏻</h1>
 </div> 
 
-I'm Nodari Muselishvili, 15 years old, who loves coding.
+I'm Nodo Muselishvili, 16 years old, who loves coding.
 * 🌱 I'm Currently Building **Web Projects For Portfolio**
 * 👀 Last project I made is **Fitness Pro Landing Page**
 * 💼 I’m currently learning **JavaScript**
